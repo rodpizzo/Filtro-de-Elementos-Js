@@ -1,0 +1,26 @@
+.projetos {
+  background-color: rgb(18, 13, 36);
+  height: 400px;
+  width: 100%;
+}
+
+.buttons {
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;
+}
+
+.box {
+  float: left;
+  background-color: white;
+  width: 125px;
+  gap: 1rem;
+  line-height: 125px;
+  text-align: center;
+  margin: 10px;
+  display: none;
+}
+
+.show {
+  display: block;
+}
